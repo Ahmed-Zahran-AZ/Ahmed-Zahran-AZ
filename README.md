@@ -3,4 +3,8 @@
 
 - I am currently studying [Embedded Systems Basics with ITI](https://github.com/Ahmed-Zahran-AZ/Embedded-Systems-Diploma-Basic-Level-ITI)
 - I am progressing through the Introduction to MATLAB course on Coursera by Vanderbilt University
-[![Ahmed Zahran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Zahran-AZ)](https://github.com/Ahmed-Zahran-AZ/github-readme-stats)
+
+<center>
+  [![Ahmed Zahran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Zahran-AZ)](https://github.com/Ahmed-Zahran-AZ/github-readme-stats)
+</center>
+
